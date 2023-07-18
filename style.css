@@ -1,0 +1,36 @@
+h1, p{
+    margin-left: 50px;
+}
+h1 {
+     font-size: 50px;
+}
+p {
+     font-size: 20px;
+}
+a {
+    text-decoration: rgb(24, 206, 185);
+}
+
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    border: 10px solid cadetblue;
+    border-radius: 10px;
+}
+nav ul li {
+    border: 1px dotted rgba(12, 128, 128, 0.756);
+    padding: 10px;
+    list-style-type: none;
+    display: inline;
+}
+body {
+    background-color: rgb(21, 41, 196);
+}
+
+    img {
+        height: 300px;px ;
+        width: 300px;
+    }
